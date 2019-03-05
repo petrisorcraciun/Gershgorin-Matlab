@@ -1,7 +1,12 @@
 # Gershgorin-Matlab
+<b> Detalii / Details </b>
 
-<b> Imagini </b>
+This project was made for Optimization Techniques course at Universitatea Ovidius Constanța using the MATLAB license from computers in college.
 
-<img src="http://i.epvpimg.com/L4Txdab.png">
-<img src="http://i.epvpimg.com/ZfC4aab.png">
-<img src="http://i.epvpimg.com/BPhKeab.png">
+<b> Imagini / Images </b>
+
+<img src="http://i.epvpimg.com/L4Txdab.png" width="500" height="270">
+<img src="http://i.epvpimg.com/ZfC4aab.png" width="500" height="270">
+<img src="http://i.epvpimg.com/BPhKeab.png" width="500" height="270">
+
+
